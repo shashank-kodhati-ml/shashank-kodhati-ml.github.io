@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86b6f0664ecaea67ff0138ff3754e448",
+    "revision": "6055e5db47aa95701b495a829e60323f",
     "url": "/index.html"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.01c87591.chunk.css"
   },
   {
-    "revision": "57371bfd100f63ad50d2",
-    "url": "/static/css/main.43e5ba24.chunk.css"
+    "revision": "a5c055d17f08b8149822",
+    "url": "/static/css/main.4df330fb.chunk.css"
   },
   {
-    "revision": "10d1cc1a3f6094026801",
-    "url": "/static/js/2.914c76e0.chunk.js"
+    "revision": "44669ae65308201957ba",
+    "url": "/static/js/2.00ab1562.chunk.js"
   },
   {
     "revision": "47c34a8db786151314d7",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.9b1149ee.chunk.js"
   },
   {
-    "revision": "57371bfd100f63ad50d2",
-    "url": "/static/js/main.185b7cee.chunk.js"
+    "revision": "a5c055d17f08b8149822",
+    "url": "/static/js/main.f2581e19.chunk.js"
   },
   {
     "revision": "0cc62095a73b2ffdc92c",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/data-engineer-5.cfac5e91.jpg"
   },
   {
-    "revision": "992399a95bac6f96927db764688707fd",
-    "url": "/static/media/data-engineer-8.992399a9.png"
-  },
-  {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/static/media/logo.25bf045c.svg"
+  },
+  {
+    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
+    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "bdfb454ed23161c574be777917891d80",
